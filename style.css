@@ -1,0 +1,34 @@
+span{
+    border: 1px solid black;
+    background-color: lime;
+    color:black;
+}
+image{
+
+    border-radius:100px;
+}
+.priska{
+    background-image: -moz-linear-gradient();
+    padding-left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color:white;
+    border-radius: 100px;
+    border-color: black;
+
+}
+#Hobi{
+    background-color: aqua;
+    border-radius: 50px;
+    padding-left:200px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+#pendidikan{ 
+    background-color: paleturquoise;
+    border-radius: 50px;
+    padding-left:200px;
+    font-family: 'Courier New', Courier, monospace;
+}
